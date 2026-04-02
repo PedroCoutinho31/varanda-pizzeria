@@ -1,0 +1,18 @@
+# Dependências (A mais importante!)
+node_modules/
+
+# Build (Pasta que o Vite gera)
+dist/
+
+# Logs de erro
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Variáveis de ambiente (Segurança!)
+.env
+.env.local
+
+# Pastas de editores
+.vscode/
+.idea/
